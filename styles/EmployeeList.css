@@ -1,0 +1,24 @@
+body {
+  background-color: #46494C;
+  
+}
+
+.banner {
+  background-color: #DCDCDD;
+  color: #000000;
+  text-align: center;
+  
+}
+
+.employees {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.employee {
+  flex-basis: 30%;
+  background-color: #DCDCDD;
+  padding: 1em;
+  margin: 1em;
+}
